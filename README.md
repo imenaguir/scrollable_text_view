@@ -5,8 +5,5 @@ A customizable scrollable text view to displaying a vertical scroll bar in a tex
 ## Getting Started
 
 
-<video src="https://user-images.githubusercontent.com/77537857/104821969-dbdfe700-583f-11eb-8665-5557a6d5540e.mov" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-
-  </video>
-
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://user-images.githubusercontent.com/77537857/104821969-dbdfe700-583f-11eb-8665-5557a6d5540e.mov)
 
