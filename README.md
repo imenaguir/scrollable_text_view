@@ -1,4 +1,4 @@
-# Scrollable text view
+# ScrollableTextView
 
 A customizable scrollable text view to displaying a vertical scroll bar in a text block
 
